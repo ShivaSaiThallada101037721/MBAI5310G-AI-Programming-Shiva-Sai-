@@ -1,4 +1,4 @@
-# Assignment-3
+# Assignment-3-Classification Models and Evaluation Metrics
 1. Project Overview
 
 This project focuses on building and comparing two machine learning classification models using a selected dataset. The goal is to predict the target variable based on input features and evaluate model performance using different metrics. Logistic Regression and Support Vector Machine (SVM) models were trained and tested to determine which model performs better. The project also explores responsible AI concepts such as bias, limitations, and the importance of human judgment.
