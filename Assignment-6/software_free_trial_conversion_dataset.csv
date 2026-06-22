@@ -1,0 +1,391 @@
+user_id,age,age_group,gender,region,company_size,user_role,signup_source,trial_length_days,logins_during_trial,features_used_count,team_members_invited,support_tickets,webinar_attended,trial_satisfaction_score,days_since_last_login,converted_to_paid
+FT0001,64,51+,Female,West,Small,Manager,Referral,21,7,5,12,2,No,9,23,1
+FT0002,61,51+,Female,West,Medium,Founder,Social Media,21,47,10,5,2,No,3,12,1
+FT0003,26,26-35,Female,North,Large,Developer,Paid Ad,30,30,5,2,4,No,8,13,0
+FT0004,23,18-25,Female,North,Small,Analyst,Paid Ad,30,36,1,5,1,Yes,3,29,0
+FT0005,31,26-35,Male,West,Small,Developer,Referral,7,11,2,7,4,Yes,3,23,0
+FT0006,62,51+,Female,North,Medium,Manager,Social Media,14,48,0,0,2,Yes,10,16,1
+FT0007,28,26-35,Female,West,Medium,Manager,Organic Search,7,0,19,9,0,No,6,25,1
+FT0008,18,18-25,Female,North,Small,Developer,Organic Search,14,26,12,11,7,Yes,6,18,1
+FT0009,16,18-25,Male,East,Medium,Analyst,Organic Search,30,35,17,3,5,No,3,27,1
+FT0010,16,18-25,Male,West,Medium,Founder,Social Media,14,44,2,7,7,No,10,20,0
+FT0011,64,51+,Male,North,Large,Analyst,Referral,30,16,10,6,5,Yes,8,21,1
+FT0012,42,36-50,Male,East,Medium,Founder,Social Media,14,16,12,8,0,No,10,20,1
+FT0013,20,18-25,Female,West,Solo,Analyst,Organic Search,14,19,19,12,5,No,4,26,1
+FT0014,64,51+,Female,South,Large,Developer,Referral,14,43,8,11,2,No,5,2,1
+FT0015,47,36-50,Female,North,Solo,Manager,Referral,14,32,5,8,5,No,3,3,1
+FT0016,66,51+,Male,South,Solo,Founder,Paid Ad,14,30,4,9,6,No,10,26,1
+FT0017,66,51+,Female,North,Large,Student,Referral,7,44,5,7,0,No,5,1,1
+FT0018,23,18-25,Female,East,Solo,Student,Social Media,14,51,4,1,5,No,10,27,0
+FT0019,31,26-35,Female,West,Solo,Manager,Social Media,14,39,13,11,5,No,7,1,1
+FT0020,28,26-35,Male,South,Solo,Student,Organic Search,30,36,16,6,0,No,8,4,1
+FT0021,41,36-50,Male,East,Large,Analyst,Paid Ad,14,54,13,3,4,No,5,29,1
+FT0022,43,36-50,Female,North,Small,Analyst,Referral,7,31,7,1,2,Yes,2,5,1
+FT0023,22,18-25,Female,East,Small,Analyst,Organic Search,14,27,15,10,7,Yes,3,3,1
+FT0024,25,18-25,Male,East,Solo,Student,Organic Search,7,4,17,1,1,No,1,19,0
+FT0025,64,51+,Male,South,Solo,Manager,University,30,7,0,11,2,No,10,17,0
+FT0026,37,36-50,Male,East,Small,Manager,Social Media,7,31,5,11,7,Yes,8,26,0
+FT0027,52,51+,Female,North,Medium,Analyst,Paid Ad,30,23,18,10,4,Yes,8,20,1
+FT0028,37,36-50,Male,North,Small,Analyst,Referral,21,16,18,10,7,No,2,17,1
+FT0029,50,36-50,Female,South,Medium,Student,Referral,21,13,2,7,3,Yes,4,1,1
+FT0030,48,36-50,Female,East,Small,Founder,University,21,31,2,6,0,No,2,14,0
+FT0031,62,51+,Female,West,Solo,Developer,Social Media,14,50,17,9,6,No,3,23,1
+FT0032,41,36-50,Male,South,Small,Founder,Social Media,7,35,16,11,4,No,10,23,1
+FT0033,26,26-35,Female,West,Small,Student,Organic Search,14,37,11,3,6,No,8,21,1
+FT0034,24,18-25,Female,South,Small,Manager,University,7,22,5,1,3,No,1,15,0
+FT0035,50,36-50,Female,West,Medium,Developer,Social Media,30,3,8,10,6,No,9,12,1
+FT0036,48,36-50,Male,West,Small,Student,Social Media,30,24,16,3,1,No,2,10,0
+FT0037,21,18-25,Male,West,Small,Manager,Organic Search,30,38,1,8,7,Yes,4,22,0
+FT0038,46,36-50,Male,West,Solo,Student,Referral,30,51,10,11,3,No,2,23,1
+FT0039,67,51+,Male,West,Small,Student,Organic Search,7,33,12,9,4,No,7,11,1
+FT0040,64,51+,Male,West,Solo,Student,Paid Ad,21,45,15,11,6,No,2,23,1
+FT0041,42,36-50,Female,East,Medium,Founder,University,14,30,,3,2,No,7,9,1
+FT0042,62,51+,Male,West,Medium,Manager,Organic Search,7,4,16,2,0,No,8,19,1
+FT0043,54,51+,Female,West,Solo,Founder,Organic Search,7,10,18,6,7,Yes,9,26,1
+FT0044,52,51+,Male,East,Small,Student,Organic Search,30,23,14,0,4,Yes,6,29,0
+FT0045,56,51+,Female,North,Small,Manager,Referral,7,43,20,10,4,No,6,25,1
+FT0046,47,36-50,Male,East,Small,Manager,Paid Ad,7,22,15,1,6,No,7,4,1
+FT0047,24,18-25,Female,West,Small,Analyst,Organic Search,14,55,14,5,4,No,8,23,1
+FT0048,61,51+,Male,West,Solo,Developer,University,30,0,19,2,1,Yes,10,17,1
+FT0049,43,36-50,Female,West,Solo,Manager,Organic Search,14,49,16,3,3,No,4,4,1
+FT0050,27,26-35,Female,North,Large,Student,Social Media,7,31,4,10,2,Yes,7,16,1
+FT0051,19,18-25,Female,North,Small,Analyst,Referral,21,38,0,9,1,No,4,9,0
+FT0052,63,51+,Male,North,Solo,Developer,Referral,7,20,18,7,6,No,1,17,1
+FT0053,38,36-50,Male,East,Solo,Student,Social Media,30,23,20,12,1,No,10,26,1
+FT0054,57,51+,Male,East,Large,Founder,Social Media,14,45,7,12,0,No,5,6,1
+FT0055,31,26-35,Male,South,Small,Analyst,University,14,17,13,2,7,No,3,30,0
+FT0056,59,51+,Female,North,Solo,Analyst,University,21,23,2,8,4,No,5,0,1
+FT0057,24,18-25,Female,South,Large,Student,Social Media,21,10,0,6,1,Yes,2,14,0
+FT0058,61,51+,Female,North,Medium,Manager,Paid Ad,30,4,16,9,1,No,1,25,1
+FT0059,24,18-25,Female,South,Solo,Manager,Paid Ad,7,2,3,12,6,No,1,18,0
+FT0060,65,51+,Male,West,Large,Analyst,University,7,7,4,6,2,No,1,5,0
+FT0061,57,51+,Male,North,Solo,Analyst,Organic Search,21,32,11,2,0,Yes,4,4,1
+FT0062,26,26-35,Male,South,Solo,Student,Referral,30,29,14,12,5,Yes,5,16,1
+FT0063,32,26-35,Female,West,Small,Founder,Paid Ad,21,47,12,10,6,No,4,1,1
+FT0064,34,26-35,Male,South,Solo,Founder,Organic Search,21,52,12,8,5,No,5,11,1
+FT0065,63,51+,Female,West,Large,Student,Referral,30,11,18,7,4,No,9,21,1
+FT0066,43,36-50,Female,North,Medium,Student,Organic Search,30,2,17,6,0,No,1,22,0
+FT0067,28,26-35,Male,South,Small,Manager,Paid Ad,7,37,8,2,3,Yes,10,8,1
+FT0068,43,36-50,Female,North,Small,Student,Referral,21,25,18,7,7,No,1,23,1
+FT0069,30,26-35,Male,North,Small,Developer,University,14,5,12,11,4,Yes,10,0,1
+FT0070,67,51+,Male,North,Solo,Analyst,University,7,18,11,9,4,No,7,9,1
+FT0071,34,26-35,Female,North,Medium,Developer,Organic Search,7,2,8,9,6,No,8,1,1
+FT0072,31,26-35,Female,East,Solo,Developer,Organic Search,21,18,15,7,6,No,7,14,1
+FT0073,33,26-35,Female,West,Medium,Analyst,Referral,14,7,15,12,5,No,8,10,1
+FT0074,47,36-50,Female,South,Solo,Student,University,21,52,17,9,4,Yes,2,10,1
+FT0075,17,18-25,Female,West,Large,Developer,Social Media,30,1,13,3,7,No,5,8,0
+FT0076,54,51+,Female,North,Small,Analyst,University,14,9,11,8,6,No,7,0,1
+FT0077,66,51+,Male,South,Small,Student,University,14,25,0,9,3,Yes,1,0,0
+FT0078,61,51+,Male,East,Solo,Student,Social Media,30,53,13,3,3,No,7,10,1
+FT0079,47,36-50,Female,West,Small,Student,Referral,30,20,3,1,0,No,5,23,0
+FT0080,47,36-50,Male,North,Small,Founder,Referral,21,47,9,1,2,No,4,29,0
+FT0081,24,18-25,Female,North,Medium,Analyst,Social Media,14,44,14,6,6,Yes,5,12,1
+FT0082,65,51+,Female,East,Medium,Manager,University,30,31,5,9,1,Yes,3,19,0
+FT0083,59,51+,Male,East,Small,Analyst,Referral,21,12,8,0,0,Yes,6,27,0
+FT0084,63,51+,Female,West,Small,Manager,University,21,8,13,7,7,No,10,9,1
+FT0085,40,36-50,Female,West,Medium,Founder,University,21,43,16,8,7,Yes,4,21,1
+FT0086,46,36-50,Male,West,Large,Manager,Organic Search,30,8,6,0,3,Yes,1,26,0
+FT0087,40,36-50,Male,South,Solo,Manager,Referral,30,2,11,0,7,No,2,23,0
+FT0088,44,36-50,Male,West,Small,Manager,Organic Search,30,44,10,10,6,No,10,11,1
+FT0089,56,51+,Female,North,Medium,Developer,Social Media,21,48,8,1,5,No,7,23,0
+FT0090,66,51+,Female,East,Large,Founder,Organic Search,30,32,5,4,6,Yes,8,16,1
+FT0091,55,51+,Male,East,Medium,Developer,Organic Search,14,10,10,2,1,No,9,19,0
+FT0092,58,51+,Male,East,Small,Developer,Organic Search,14,10,13,11,3,Yes,3,10,1
+FT0093,38,36-50,Male,West,Medium,Manager,Paid Ad,21,10,16,8,3,No,4,18,1
+FT0094,31,26-35,Female,East,Small,Founder,Paid Ad,21,46,17,1,0,No,10,23,1
+FT0095,51,51+,Male,West,Medium,Developer,Paid Ad,14,9,11,7,1,Yes,6,8,1
+FT0096,34,26-35,Female,North,Small,Founder,University,14,33,0,11,6,No,1,19,0
+FT0097,42,36-50,Female,West,Solo,Student,Social Media,14,36,6,0,2,No,7,5,1
+FT0098,67,51+,Male,East,Medium,Manager,Paid Ad,21,9,18,0,4,Yes,7,11,1
+FT0099,63,51+,Male,North,Solo,Founder,Organic Search,14,50,12,2,5,No,6,22,1
+FT0100,42,36-50,Male,West,Solo,Manager,Social Media,7,35,10,1,2,Yes,3,20,1
+FT0101,47,36-50,Female,East,Medium,Founder,Social Media,21,18,0,1,1,No,8,20,0
+FT0102,18,18-25,Female,West,Solo,Developer,Organic Search,7,23,5,3,3,No,7,19,0
+FT0103,43,36-50,Male,North,Small,Student,Paid Ad,7,55,20,12,3,Yes,9,20,1
+FT0104,19,18-25,Male,South,Medium,Student,Organic Search,21,22,1,4,7,Yes,4,16,0
+FT0105,22,18-25,Male,North,Medium,Developer,University,14,27,15,7,3,Yes,1,20,1
+FT0106,52,51+,Female,East,Solo,Founder,Social Media,7,28,19,0,6,Yes,3,1,1
+FT0107,57,51+,Female,East,Small,Developer,Paid Ad,21,11,14,1,2,No,9,1,1
+FT0108,37,36-50,Female,West,Solo,Student,Referral,21,25,18,3,7,Yes,10,28,1
+FT0109,19,18-25,Male,West,Small,Analyst,University,30,54,11,11,7,No,6,24,1
+FT0110,68,51+,Female,East,Medium,Developer,University,7,0,12,11,6,No,3,21,0
+FT0111,42,36-50,Female,North,Small,Student,University,14,6,19,7,5,No,8,8,1
+FT0112,58,51+,Female,East,Solo,Manager,University,14,10,2,5,2,Yes,5,24,0
+FT0113,41,36-50,Male,North,Solo,Analyst,Paid Ad,21,52,8,10,1,No,5,25,1
+FT0114,39,36-50,Male,North,Small,Founder,Social Media,14,29,9,1,6,Yes,3,7,1
+FT0115,47,36-50,Female,South,Small,Analyst,University,14,9,6,8,1,No,7,3,1
+FT0116,44,36-50,Female,West,Small,Manager,Paid Ad,14,4,,9,2,No,2,3,0
+FT0117,30,26-35,Male,East,Solo,Manager,Social Media,21,21,13,4,2,No,4,14,1
+FT0118,39,36-50,Male,East,Small,Developer,Referral,7,4,12,1,2,No,3,2,1
+FT0119,57,51+,Male,South,Medium,Student,Referral,7,50,14,9,6,No,10,7,1
+FT0120,19,18-25,Female,West,Small,Student,Social Media,14,28,14,9,2,No,4,14,1
+FT0121,30,26-35,Female,South,Medium,Student,Paid Ad,14,39,7,5,4,Yes,10,24,1
+FT0122,56,51+,Male,East,Small,Developer,Referral,30,31,16,5,1,No,2,14,1
+FT0123,33,26-35,Male,West,Solo,Manager,Social Media,21,1,13,9,4,No,8,12,0
+FT0124,51,51+,Male,South,Small,Analyst,Referral,21,5,19,10,2,No,5,9,1
+FT0125,16,18-25,Male,West,Solo,Student,Organic Search,7,17,,2,0,Yes,9,6,1
+FT0126,35,26-35,Female,South,Solo,Developer,Referral,21,26,7,1,7,No,3,27,0
+FT0127,40,36-50,Female,North,Medium,Founder,Social Media,7,7,18,5,0,No,2,5,1
+FT0128,60,51+,Male,West,Small,Developer,University,14,0,20,2,3,No,6,11,0
+FT0129,43,36-50,Female,South,Large,Analyst,Referral,30,40,17,7,2,No,8,24,1
+FT0130,60,51+,Male,East,Solo,Founder,Paid Ad,21,49,6,1,2,No,7,11,1
+FT0131,66,51+,Male,East,Solo,Manager,University,30,9,17,2,0,No,9,11,1
+FT0132,31,26-35,Female,North,Solo,Analyst,Paid Ad,21,27,7,0,2,No,1,2,1
+FT0133,59,51+,Male,North,Large,Student,Referral,14,2,20,2,6,No,3,17,1
+FT0134,19,18-25,Female,West,Small,Analyst,University,14,26,2,8,3,Yes,4,7,1
+FT0135,44,36-50,Female,East,Solo,Founder,Social Media,30,24,16,8,3,Yes,9,29,1
+FT0136,59,51+,Female,North,Medium,Student,Paid Ad,14,42,11,4,3,Yes,1,28,1
+FT0137,36,36-50,Male,South,Solo,Developer,Paid Ad,21,12,0,0,4,No,5,1,0
+FT0138,32,26-35,Male,West,Solo,Student,Paid Ad,30,8,10,1,6,No,1,9,0
+FT0139,65,51+,Female,North,Medium,Developer,Paid Ad,30,19,5,6,5,No,2,25,0
+FT0140,42,36-50,Female,West,Medium,Founder,Paid Ad,14,38,15,4,0,No,9,13,1
+FT0141,64,51+,Female,South,Small,Developer,Organic Search,21,31,15,10,7,No,9,13,1
+FT0142,44,36-50,Female,West,Solo,Founder,Referral,21,29,12,1,7,No,6,21,1
+FT0143,62,51+,Male,North,Small,Developer,University,7,37,18,12,1,Yes,5,23,1
+FT0144,49,36-50,Male,East,Medium,Founder,Referral,14,23,17,9,2,No,9,30,1
+FT0145,38,36-50,Female,South,Small,Analyst,Social Media,7,53,1,7,5,Yes,3,4,1
+FT0146,55,51+,Male,North,Medium,Analyst,Organic Search,7,38,12,7,2,Yes,5,25,1
+FT0147,33,26-35,Male,East,Solo,Founder,Paid Ad,21,31,10,3,4,No,10,20,1
+FT0148,22,18-25,Male,South,Small,Analyst,Referral,7,18,5,4,6,Yes,9,30,0
+FT0149,62,51+,Female,West,Solo,Developer,Organic Search,7,20,,11,7,Yes,3,25,0
+FT0150,59,51+,Female,South,Small,Student,Social Media,21,30,7,12,2,No,4,9,1
+FT0151,46,36-50,Female,East,Solo,Developer,Social Media,7,2,8,7,5,No,2,6,0
+FT0152,43,36-50,Female,South,Small,Student,Paid Ad,30,37,13,2,0,No,2,29,0
+FT0153,41,36-50,Female,West,Small,Developer,Paid Ad,30,31,17,3,5,No,10,15,1
+FT0154,18,18-25,Male,South,Medium,Student,University,30,39,4,10,0,Yes,1,17,1
+FT0155,50,36-50,Male,East,Medium,Student,Referral,14,55,1,3,5,No,10,30,1
+FT0156,46,36-50,Female,South,Solo,Manager,Organic Search,14,20,0,12,5,No,3,28,0
+FT0157,35,26-35,Female,North,Solo,Developer,Organic Search,14,34,18,5,2,No,8,21,1
+FT0158,47,36-50,Male,South,Solo,Founder,University,21,13,1,2,4,No,8,26,0
+FT0159,47,36-50,Male,North,Small,Manager,Referral,7,36,3,12,2,No,5,5,1
+FT0160,50,36-50,Female,South,Small,Founder,Organic Search,7,19,10,0,7,No,5,25,0
+FT0161,40,36-50,Male,East,Medium,Founder,Social Media,30,43,13,8,4,No,2,3,1
+FT0162,55,51+,Female,East,Medium,Developer,Paid Ad,7,11,8,2,6,Yes,2,12,0
+FT0163,41,36-50,Female,West,Small,Analyst,Organic Search,14,17,14,8,5,No,3,19,1
+FT0164,64,51+,Female,South,Small,Founder,Paid Ad,7,6,12,12,2,No,9,25,1
+FT0165,16,18-25,Female,North,Medium,Founder,Referral,7,24,7,3,5,Yes,1,6,1
+FT0166,43,36-50,Female,West,Medium,Founder,Organic Search,7,33,8,10,0,Yes,8,30,1
+FT0167,35,26-35,Female,North,Large,Student,University,7,35,3,8,1,No,2,14,1
+FT0168,53,51+,Female,South,Small,Manager,Social Media,14,47,18,8,3,No,1,30,1
+FT0169,21,18-25,Male,South,Small,Founder,Organic Search,30,11,13,7,3,Yes,5,25,0
+FT0170,49,36-50,Male,West,Solo,Student,University,7,2,20,1,4,No,2,1,1
+FT0171,33,26-35,Female,North,Solo,Founder,Organic Search,30,27,3,7,0,No,4,8,1
+FT0172,40,36-50,Male,West,Medium,Developer,Paid Ad,7,16,6,4,5,No,3,5,0
+FT0173,67,51+,Female,North,Solo,Analyst,Paid Ad,21,29,4,4,4,Yes,7,28,0
+FT0174,24,18-25,Male,South,Small,Founder,University,21,11,6,6,5,No,5,27,0
+FT0175,43,36-50,Male,North,Large,Manager,University,14,29,,7,4,Yes,2,27,0
+FT0176,68,51+,Male,South,Small,Founder,Social Media,21,31,2,0,2,Yes,7,10,0
+FT0177,44,36-50,Female,East,Medium,Founder,Social Media,7,14,17,12,5,No,1,24,1
+FT0178,63,51+,Female,North,Small,Developer,Organic Search,30,44,4,5,3,Yes,6,3,1
+FT0179,55,51+,Male,North,Solo,Analyst,Organic Search,21,29,2,3,7,No,8,10,0
+FT0180,55,51+,Female,North,Small,Student,Organic Search,7,8,15,10,5,Yes,2,16,0
+FT0181,34,26-35,Female,East,Medium,Student,University,21,20,13,10,2,No,4,27,0
+FT0182,68,51+,Female,North,Medium,Manager,Organic Search,21,39,11,11,0,Yes,7,10,1
+FT0183,16,18-25,Male,East,Small,Analyst,Referral,30,51,1,11,4,No,1,2,1
+FT0184,58,51+,Male,West,Medium,Founder,Paid Ad,21,3,5,2,0,No,7,1,1
+FT0185,30,26-35,Male,North,Solo,Manager,Organic Search,21,39,6,3,4,Yes,7,8,1
+FT0186,67,51+,Male,East,Solo,Student,Social Media,30,3,19,12,0,No,1,20,1
+FT0187,46,36-50,Male,West,Solo,Student,Referral,14,23,1,9,2,Yes,2,28,0
+FT0188,32,26-35,Female,West,Solo,Student,University,14,46,,8,5,No,9,7,1
+FT0189,58,51+,Female,South,Small,Manager,Organic Search,30,9,20,1,6,Yes,3,19,0
+FT0190,17,18-25,Male,North,Solo,Student,University,30,49,15,0,5,Yes,10,0,1
+FT0191,38,36-50,Female,East,Medium,Student,Social Media,30,30,13,11,5,Yes,10,10,1
+FT0192,48,36-50,Male,West,Large,Manager,Referral,21,31,11,0,7,Yes,10,13,1
+FT0193,43,36-50,Female,West,Small,Manager,Organic Search,7,38,6,11,6,No,1,0,1
+FT0194,30,26-35,Female,West,Small,Analyst,Social Media,14,50,14,2,7,No,7,3,1
+FT0195,49,36-50,Male,North,Solo,Manager,Paid Ad,30,42,0,11,1,No,3,22,0
+FT0196,31,26-35,Female,North,Medium,Analyst,University,14,34,4,4,6,Yes,10,24,0
+FT0197,53,51+,Female,North,Medium,Manager,Social Media,21,51,10,8,4,Yes,7,18,1
+FT0198,50,36-50,Male,North,Small,Developer,Social Media,21,15,17,6,4,No,8,23,1
+FT0199,56,51+,Male,South,Small,Student,Organic Search,21,55,6,1,6,No,1,7,0
+FT0200,50,36-50,Male,South,Large,Manager,University,14,10,15,12,6,Yes,3,13,1
+FT0201,58,51+,Female,South,Large,Founder,Paid Ad,14,31,12,7,3,Yes,6,29,1
+FT0202,52,51+,Male,West,Solo,Analyst,Social Media,30,10,17,5,2,No,4,6,1
+FT0203,20,18-25,Male,East,Medium,Developer,Referral,30,45,7,1,0,No,4,6,1
+FT0204,62,51+,Male,West,Small,Developer,Referral,14,43,10,2,3,Yes,3,10,1
+FT0205,31,26-35,Male,North,Small,Analyst,University,30,30,,12,3,No,10,4,1
+FT0206,28,26-35,Male,East,Small,Developer,Social Media,14,23,18,2,5,No,2,30,0
+FT0207,50,36-50,Female,West,Solo,Student,University,21,19,6,12,3,No,1,23,0
+FT0208,37,36-50,Female,East,Medium,Student,University,30,13,18,7,0,No,6,8,1
+FT0209,42,36-50,Female,East,Solo,Analyst,Referral,7,39,14,12,4,No,2,16,1
+FT0210,35,26-35,Female,South,Small,Analyst,Referral,14,10,5,0,3,No,3,4,0
+FT0211,31,26-35,Male,West,Medium,Developer,Social Media,21,16,13,5,2,No,10,3,1
+FT0212,21,18-25,Female,West,Solo,Developer,Paid Ad,21,44,19,11,7,No,5,13,1
+FT0213,21,18-25,Female,North,Solo,Developer,Referral,30,23,8,5,6,No,1,24,0
+FT0214,57,51+,Female,West,Solo,Manager,Social Media,14,51,,9,4,Yes,2,1,1
+FT0215,54,51+,Female,North,Small,Manager,Social Media,7,39,12,12,1,No,9,10,1
+FT0216,64,51+,Female,East,Large,Student,Organic Search,30,23,6,2,6,No,9,18,0
+FT0217,26,26-35,Male,North,Solo,Founder,University,21,23,8,9,7,No,9,4,1
+FT0218,33,26-35,Male,North,Small,Student,Paid Ad,7,14,6,6,4,No,9,25,0
+FT0219,54,51+,Female,North,Small,Analyst,Paid Ad,14,20,0,7,1,No,1,19,0
+FT0220,30,26-35,Male,North,Medium,Manager,Paid Ad,14,26,10,5,1,No,8,22,1
+FT0221,66,51+,Female,North,Medium,Developer,Organic Search,30,27,0,2,0,No,7,10,0
+FT0222,49,36-50,Male,South,Small,Student,Organic Search,21,33,20,0,4,No,10,16,1
+FT0223,65,51+,Male,South,Small,Developer,Social Media,7,30,10,5,6,No,6,28,0
+FT0224,57,51+,Female,West,Large,Manager,Organic Search,30,23,16,12,1,No,5,7,1
+FT0225,53,51+,Male,East,Solo,Developer,Referral,30,25,6,11,1,No,9,26,1
+FT0226,35,26-35,Female,North,Large,Student,Social Media,21,10,3,8,4,Yes,8,15,1
+FT0227,22,18-25,Male,West,Solo,Analyst,Referral,14,28,2,10,3,No,7,12,0
+FT0228,43,36-50,Male,West,Small,Developer,Paid Ad,21,51,8,1,4,No,5,22,0
+FT0229,47,36-50,Female,South,Small,Analyst,Organic Search,30,35,9,4,1,No,2,19,0
+FT0230,50,36-50,Female,East,Medium,Founder,Social Media,21,10,20,5,5,No,1,29,0
+FT0231,45,36-50,Female,West,Medium,Analyst,Organic Search,7,0,19,2,0,Yes,5,25,0
+FT0232,25,18-25,Male,North,Small,Manager,Organic Search,30,18,9,6,5,No,8,30,0
+FT0233,19,18-25,Male,West,Solo,Founder,University,30,3,3,12,5,Yes,5,28,0
+FT0234,59,51+,Female,South,Solo,Manager,Paid Ad,30,40,16,5,4,Yes,4,9,1
+FT0235,27,26-35,Male,North,Medium,Developer,University,30,31,1,1,7,No,5,15,0
+FT0236,27,26-35,Female,East,Medium,Manager,Organic Search,30,27,1,12,3,Yes,2,26,1
+FT0237,57,51+,Female,East,Solo,Analyst,Referral,21,30,4,3,1,Yes,3,2,1
+FT0238,28,26-35,Female,South,Small,Manager,Social Media,21,50,10,1,7,No,9,22,1
+FT0239,22,18-25,Male,North,Medium,Analyst,Social Media,30,7,8,9,2,No,2,28,0
+FT0240,58,51+,Female,West,Large,Manager,Paid Ad,21,33,16,10,3,No,6,28,1
+FT0241,31,26-35,Female,East,Medium,Student,Paid Ad,7,29,18,11,6,No,2,27,1
+FT0242,45,36-50,Female,South,Small,Founder,Social Media,14,36,0,6,5,Yes,8,12,0
+FT0243,39,36-50,Male,East,Medium,Student,Organic Search,14,52,0,9,3,Yes,4,29,0
+FT0244,58,51+,Female,West,Small,Manager,Social Media,14,29,9,8,6,No,8,12,0
+FT0245,25,18-25,Male,South,Small,Developer,Paid Ad,30,19,8,10,1,No,6,18,1
+FT0246,47,36-50,Female,South,Small,Analyst,Organic Search,30,50,8,2,3,No,3,6,1
+FT0247,46,36-50,Male,South,Medium,Founder,Paid Ad,7,51,12,5,6,No,2,16,1
+FT0248,50,36-50,Female,East,Solo,Founder,Referral,7,6,14,0,2,No,7,30,0
+FT0249,64,51+,Female,East,Large,Analyst,Paid Ad,14,27,18,6,2,No,6,12,1
+FT0250,38,36-50,Female,South,Solo,Student,Social Media,21,29,4,0,1,No,9,10,1
+FT0251,56,51+,Male,North,Solo,Founder,University,21,38,19,3,7,No,9,17,1
+FT0252,40,36-50,Female,West,Solo,Student,Paid Ad,30,41,20,0,5,No,3,3,1
+FT0253,31,26-35,Female,West,Small,Student,University,30,22,17,3,0,No,10,21,1
+FT0254,66,51+,Female,East,Small,Manager,Social Media,14,4,17,10,1,No,2,1,1
+FT0255,56,51+,Female,South,Large,Manager,Paid Ad,21,43,18,11,5,No,4,5,1
+FT0256,47,36-50,Female,North,Small,Developer,Referral,30,23,5,3,4,No,4,12,1
+FT0257,19,18-25,Female,North,Medium,Student,Organic Search,7,3,,10,6,Yes,9,15,1
+FT0258,19,18-25,Male,West,Large,Analyst,University,30,7,9,10,6,No,4,18,1
+FT0259,27,26-35,Male,North,Medium,Analyst,Referral,21,12,6,4,2,No,10,27,1
+FT0260,48,36-50,Male,South,Solo,Analyst,Paid Ad,30,49,0,0,2,Yes,9,1,1
+FT0261,30,26-35,Female,South,Small,Manager,Paid Ad,14,4,11,8,2,No,7,25,1
+FT0262,47,36-50,Male,North,Medium,Student,Social Media,30,44,12,10,6,No,5,26,1
+FT0263,64,51+,Male,North,Medium,Developer,Organic Search,21,27,2,0,3,No,6,12,0
+FT0264,24,18-25,Female,South,Solo,Student,Referral,14,35,0,0,7,No,3,15,0
+FT0265,66,51+,Male,South,Solo,Manager,Referral,30,5,11,7,6,No,2,16,0
+FT0266,19,18-25,Male,South,Medium,Manager,Social Media,14,28,17,7,6,No,6,28,1
+FT0267,45,36-50,Female,South,Solo,Manager,Referral,14,37,3,2,1,Yes,4,12,0
+FT0268,42,36-50,Female,East,Medium,Developer,University,14,15,1,2,0,No,4,21,0
+FT0269,64,51+,Male,East,Large,Analyst,Referral,30,24,9,4,4,Yes,7,6,1
+FT0270,29,26-35,Female,North,Small,Analyst,University,14,0,0,12,3,Yes,2,24,0
+FT0271,16,18-25,Male,West,Medium,Developer,Organic Search,14,46,0,0,3,Yes,6,7,1
+FT0272,62,51+,Male,South,Small,Student,Referral,21,21,9,11,6,No,8,15,1
+FT0273,45,36-50,Female,South,Medium,Founder,Social Media,21,53,16,9,2,No,10,1,1
+FT0274,47,36-50,Male,West,Large,Student,Referral,7,42,6,0,1,No,9,28,1
+FT0275,24,18-25,Male,East,Small,Developer,Social Media,30,3,14,8,5,No,2,29,0
+FT0276,63,51+,Male,North,Large,Founder,Social Media,7,14,4,8,6,No,3,16,0
+FT0277,53,51+,Male,North,Large,Manager,Paid Ad,30,38,15,5,5,Yes,7,1,1
+FT0278,30,26-35,Female,West,Large,Developer,Social Media,21,9,6,1,7,No,4,2,0
+FT0279,51,51+,Female,North,Solo,Manager,University,7,29,0,1,2,No,10,8,1
+FT0280,51,51+,Male,North,Solo,Founder,Social Media,7,44,7,0,3,No,5,30,0
+FT0281,43,36-50,Male,West,Solo,Founder,University,30,18,16,5,3,No,3,4,0
+FT0282,50,36-50,Male,South,Medium,Manager,University,30,46,16,0,3,Yes,1,4,1
+FT0283,44,36-50,Female,North,Solo,Founder,University,30,40,11,4,4,No,3,0,1
+FT0284,40,36-50,Female,West,Large,Analyst,Paid Ad,7,14,10,9,6,No,6,0,1
+FT0285,57,51+,Male,West,Solo,Developer,Organic Search,21,51,14,2,0,No,8,13,1
+FT0286,23,18-25,Male,North,Small,Developer,Paid Ad,30,2,16,11,7,Yes,10,10,1
+FT0287,22,18-25,Male,West,Small,Manager,Social Media,30,43,11,8,2,Yes,6,18,1
+FT0288,19,18-25,Female,South,Medium,Analyst,Paid Ad,30,10,8,4,1,Yes,9,6,1
+FT0289,55,51+,Male,North,Medium,Developer,Organic Search,30,8,4,3,7,Yes,9,22,0
+FT0290,49,36-50,Male,West,Medium,Student,Social Media,7,22,7,12,2,No,7,25,1
+FT0291,20,18-25,Male,South,Small,Founder,Referral,14,14,9,7,0,No,7,18,0
+FT0292,24,18-25,Female,South,Solo,Founder,University,7,10,7,7,3,No,2,6,0
+FT0293,27,26-35,Female,East,Large,Student,Referral,21,48,6,5,5,No,10,29,1
+FT0294,30,26-35,Female,East,Solo,Student,Referral,21,19,16,6,4,No,2,25,0
+FT0295,48,36-50,Male,West,Small,Student,Organic Search,7,19,6,10,0,No,5,19,1
+FT0296,68,51+,Female,East,Solo,Founder,University,30,35,18,5,4,Yes,2,22,1
+FT0297,36,36-50,Male,West,Large,Manager,Organic Search,21,23,17,6,0,Yes,9,13,1
+FT0298,30,26-35,Female,East,Medium,Analyst,Organic Search,7,35,6,2,6,Yes,10,15,1
+FT0299,52,51+,Male,East,Small,Analyst,Organic Search,7,21,10,4,5,Yes,2,4,1
+FT0300,49,36-50,Male,North,Medium,Founder,University,30,47,16,8,2,No,8,23,1
+FT0301,56,51+,Female,East,Small,Student,University,30,31,8,9,5,No,6,20,1
+FT0302,19,18-25,Male,West,Solo,Analyst,Social Media,7,39,20,10,4,Yes,1,1,1
+FT0303,30,26-35,Female,North,Medium,Developer,Organic Search,30,0,2,11,0,No,10,29,0
+FT0304,24,18-25,Female,South,Small,Analyst,Organic Search,21,28,7,3,3,No,7,12,0
+FT0305,68,51+,Male,South,Medium,Developer,Social Media,7,26,1,7,1,No,3,25,0
+FT0306,24,18-25,Male,East,Small,Developer,Organic Search,21,37,14,11,5,No,4,24,1
+FT0307,30,26-35,Male,West,Large,Manager,University,7,23,7,1,2,Yes,5,30,0
+FT0308,56,51+,Male,West,Solo,Manager,University,21,40,20,5,4,Yes,10,24,1
+FT0309,60,51+,Female,East,Medium,Analyst,Paid Ad,14,55,11,6,7,Yes,6,30,1
+FT0310,55,51+,Male,East,Medium,Developer,Organic Search,14,33,13,7,6,No,1,25,0
+FT0311,24,18-25,Male,North,Solo,Manager,Paid Ad,30,22,4,7,3,Yes,4,12,0
+FT0312,41,36-50,Female,East,Solo,Student,Referral,21,10,17,1,4,No,2,10,1
+FT0313,62,51+,Female,West,Solo,Student,Organic Search,21,24,20,2,3,No,10,5,1
+FT0314,23,18-25,Male,West,Medium,Manager,University,21,48,9,9,2,No,5,24,1
+FT0315,19,18-25,Male,South,Solo,Founder,Social Media,21,35,2,12,6,No,3,11,0
+FT0316,43,36-50,Female,East,Large,Manager,Paid Ad,30,23,14,12,0,No,8,3,1
+FT0317,42,36-50,Female,North,Solo,Founder,University,21,20,4,8,4,Yes,8,4,1
+FT0318,17,18-25,Male,North,Small,Developer,Paid Ad,14,30,7,11,4,Yes,10,2,1
+FT0319,65,51+,Male,North,Small,Manager,Social Media,30,47,0,2,7,No,8,2,1
+FT0320,26,26-35,Male,West,Small,Developer,Referral,7,30,13,2,3,Yes,8,24,1
+FT0321,58,51+,Female,West,Solo,Student,Referral,14,55,6,9,5,No,2,16,0
+FT0322,44,36-50,Female,North,Large,Student,Referral,7,15,6,4,1,No,9,17,0
+FT0323,27,26-35,Male,North,Medium,Analyst,Organic Search,14,44,3,1,4,Yes,6,16,1
+FT0324,32,26-35,Female,West,Large,Manager,University,7,44,11,4,0,No,8,13,1
+FT0325,37,36-50,Female,North,Small,Developer,Referral,30,49,1,3,5,No,10,25,1
+FT0326,19,18-25,Male,East,Solo,Analyst,Organic Search,14,4,8,7,2,No,1,30,0
+FT0327,56,51+,Male,South,Large,Developer,Referral,14,46,16,5,1,No,3,0,1
+FT0328,33,26-35,Male,East,Medium,Analyst,Organic Search,14,17,0,1,4,No,2,6,0
+FT0329,55,51+,Male,West,Small,Analyst,Social Media,30,40,15,9,2,Yes,7,16,1
+FT0330,43,36-50,Female,East,Large,Manager,Social Media,21,28,14,2,7,No,1,9,1
+FT0331,55,51+,Male,South,Medium,Student,University,30,2,7,10,5,No,2,0,0
+FT0332,62,51+,Male,North,Solo,Analyst,Paid Ad,21,1,11,1,3,Yes,2,28,0
+FT0333,42,36-50,Male,East,Small,Developer,University,21,52,17,2,4,Yes,5,14,1
+FT0334,57,51+,Male,West,Small,Student,Social Media,7,25,15,3,0,Yes,6,11,1
+FT0335,37,36-50,Female,North,Small,Developer,University,14,5,9,4,7,No,3,29,0
+FT0336,42,36-50,Female,East,Medium,Developer,Organic Search,14,15,1,12,4,Yes,1,2,1
+FT0337,54,51+,Male,South,Solo,Student,Organic Search,7,25,17,4,2,No,10,14,1
+FT0338,64,51+,Female,East,Small,Founder,Referral,21,10,17,1,5,No,7,10,1
+FT0339,23,18-25,Male,South,Small,Student,University,14,8,11,1,1,No,4,21,0
+FT0340,61,51+,Male,East,Small,Student,Social Media,7,8,13,1,4,No,3,11,1
+FT0341,19,18-25,Female,North,Small,Analyst,Paid Ad,30,21,10,5,2,No,6,18,0
+FT0342,61,51+,Female,North,Small,Manager,University,7,46,20,3,1,Yes,10,22,1
+FT0343,45,36-50,Female,East,Medium,Student,Social Media,21,0,5,5,5,No,2,4,0
+FT0344,58,51+,Female,West,Medium,Analyst,University,30,9,18,5,7,No,6,18,1
+FT0345,39,36-50,Male,West,Small,Founder,Paid Ad,14,55,15,12,4,No,7,6,1
+FT0346,50,36-50,Male,North,Large,Manager,Social Media,14,10,13,5,4,No,2,24,0
+FT0347,54,51+,Female,South,Small,Developer,University,7,41,10,1,7,No,2,8,0
+FT0348,32,26-35,Male,West,Large,Analyst,Paid Ad,21,44,10,7,2,No,1,4,1
+FT0349,62,51+,Male,East,Small,Manager,Paid Ad,14,8,2,2,0,No,9,22,0
+FT0350,67,51+,Male,North,Medium,Founder,Referral,7,27,,9,5,No,1,14,0
+FT0351,57,51+,Male,West,Small,Founder,Referral,30,39,4,7,3,No,4,10,1
+FT0352,28,26-35,Male,South,Solo,Founder,Referral,21,34,2,5,3,No,8,26,0
+FT0353,24,18-25,Male,North,Small,Student,University,30,22,13,1,7,No,1,0,0
+FT0354,52,51+,Male,West,Small,Student,University,30,54,18,5,3,No,2,21,1
+FT0355,58,51+,Female,West,Medium,Student,Social Media,21,22,16,2,1,Yes,4,27,1
+FT0356,49,36-50,Female,South,Small,Founder,University,14,4,19,6,7,No,5,11,1
+FT0357,23,18-25,Male,East,Medium,Founder,Social Media,7,2,3,3,3,No,6,6,0
+FT0358,23,18-25,Female,South,Medium,Founder,University,14,11,1,9,1,No,3,9,0
+FT0359,45,36-50,Male,South,Solo,Manager,University,21,9,5,1,2,Yes,3,15,0
+FT0360,21,18-25,Male,North,Small,Analyst,Referral,7,3,14,8,3,No,8,29,0
+FT0361,63,51+,Male,South,Solo,Analyst,Organic Search,21,28,15,0,4,No,10,22,1
+FT0362,21,18-25,Female,North,Solo,Developer,University,30,36,10,4,5,Yes,10,14,1
+FT0363,27,26-35,Male,East,Solo,Student,Paid Ad,7,51,10,6,7,No,5,18,1
+FT0364,36,36-50,Female,South,Solo,Student,University,30,28,17,8,2,No,10,27,1
+FT0365,61,51+,Female,South,Small,Manager,University,21,21,20,10,5,Yes,4,18,1
+FT0366,52,51+,Male,East,Medium,Manager,Social Media,30,55,2,6,2,Yes,9,22,1
+FT0367,58,51+,Male,North,Small,Analyst,University,21,34,0,11,0,No,7,26,1
+FT0368,66,51+,Female,East,Medium,Analyst,University,14,40,13,6,3,Yes,2,13,1
+FT0369,23,18-25,Male,South,Solo,Manager,Social Media,14,1,6,5,2,No,4,11,0
+FT0370,29,26-35,Female,West,Medium,Developer,Referral,7,4,15,2,2,No,5,22,0
+FT0371,31,26-35,Male,North,Small,Analyst,Paid Ad,30,43,8,1,6,No,10,27,0
+FT0372,32,26-35,Male,East,Medium,Manager,University,21,2,15,3,4,No,8,5,1
+FT0373,62,51+,Male,East,Solo,Manager,University,14,19,12,6,1,No,9,21,1
+FT0374,64,51+,Female,South,Solo,Student,Social Media,14,15,20,6,3,No,7,25,1
+FT0375,67,51+,Male,South,Small,Manager,Referral,7,6,12,1,7,No,4,20,0
+FT0376,54,51+,Female,East,Small,Analyst,Organic Search,21,22,19,5,3,No,1,25,1
+FT0377,47,36-50,Male,South,Solo,Analyst,University,30,47,5,4,6,No,10,7,1
+FT0378,47,36-50,Female,East,Solo,Manager,Paid Ad,14,20,,5,2,No,3,28,0
+FT0379,22,18-25,Female,East,Small,Developer,Social Media,21,25,10,7,0,No,4,14,1
+FT0380,45,36-50,Male,East,Small,Analyst,Referral,14,10,1,1,2,No,1,20,0
+FT0381,46,36-50,Male,West,Medium,Founder,Social Media,7,10,9,2,0,No,6,17,0
+FT0382,24,18-25,Female,West,Small,Student,University,21,33,,10,0,No,8,26,1
+FT0383,36,36-50,Female,South,Small,Founder,Social Media,14,14,3,3,6,Yes,4,19,0
+FT0384,60,51+,Male,West,Large,Manager,Referral,21,10,20,1,5,No,2,10,1
+FT0385,49,36-50,Female,West,Medium,Founder,Organic Search,21,50,0,4,3,Yes,4,18,0
+FT0386,47,36-50,Female,North,Small,Analyst,Social Media,30,53,8,8,2,No,3,19,1
+FT0387,61,51+,Female,West,Medium,Student,Social Media,14,20,5,5,2,Yes,10,27,1
+FT0388,50,36-50,Female,West,Small,Manager,Referral,21,55,17,2,7,Yes,5,9,1
+FT0389,47,36-50,Female,East,Large,Student,Social Media,14,9,18,12,3,Yes,9,11,1
+FT0390,17,18-25,Male,South,Small,Student,University,7,16,1,9,6,Yes,9,30,0
