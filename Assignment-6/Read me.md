@@ -110,4 +110,25 @@ targeted deployment.
 ---
 
 ## Files
+## Files
+assignment-6/
+├── Assignment-6.ipynb # Main Jupyter Notebook
+├── Assignment-6.pdf # PDF version of the notebook
+├── dataset.csv # Free trial user dataset
+└── README.md # This file
 
+text
+
+---
+
+## How to Run
+
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn shap lime jupyter
+jupyter notebook Assignment-6.ipynb
+```
+
+Run all cells in order from top to bottom. The dataset CSV must be in the same folder
+as the notebook.
+
+---
